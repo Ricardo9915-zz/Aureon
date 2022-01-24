@@ -1,0 +1,19 @@
+select {
+  margin-top: 8px;
+  width: 46px;
+  height: 20px;
+  color: white;
+  background: transparent;
+  border: none;
+  option{
+    color: black;
+  }
+  option:hover{
+       background-color:#fff !important;
+  }
+}
+
+
+#name_lang {
+  margin-right: 5px;
+}

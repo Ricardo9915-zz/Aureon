@@ -1,0 +1,12 @@
+{
+    "HELLO": "hola mundo",
+    "WELCOME": "Bienvenido",
+    "GREETING": "Hola {{name}}, un gusto conocerte.",
+    "TITLE": "TITULO APLICACIÓN",
+    "SELECTION": "Seleccione División",
+    "SELECTUSER": "Seleccione User",
+    "SIDEBAR1": "Reportes",
+    "SIDEBAR2": "Modelos",
+    "SIDEBAR3": "Graficas",
+    "SIDEBAR4": "Datos"
+}

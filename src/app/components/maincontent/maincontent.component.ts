@@ -12,4 +12,20 @@ export class MaincontentComponent implements OnInit {
   ngOnInit(): void {
   }
 
+
+  public gridData: any[] = [
+    {
+        ProductID: 1,
+        ProductName: 'Chai',
+        UnitPrice: 18,
+        Category: {
+            CategoryID: 1,
+            CategoryName: 'Beverages'
+        }
+    },
+    {
+       /*...*/
+    }
+];
+
 }

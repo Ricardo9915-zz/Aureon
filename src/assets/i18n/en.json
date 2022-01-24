@@ -1,0 +1,17 @@
+{
+    "HELLO": "hello world",
+    "WELCOME": "Welcome",
+    "GREETING": "Hello {{name}}, nice to meet you.",
+    "TITLE": "TITULO APLICATION",
+    "SELECTION": "Select Division",
+    "SELECTUSER": "Select User",
+    "SIDEBAR1": "Reports",
+    "SIDEBAR2": "Models",
+    "SIDEBAR3": "Graphics",
+    "SIDEBAR4": "Data"
+
+    
+}
+
+
+
