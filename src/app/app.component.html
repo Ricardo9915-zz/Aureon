@@ -1,12 +1,2 @@
 
 <router-outlet></router-outlet>
-<div>{{ 'GREETING' | translate:{name:'nicolas'} }}</div>
-<div>{{ 'HELLO' | translate }}</div>
-<label>
-    change
-    <select #langSelect (change)="changeLang(langSelect.value)">
-      <option *ngFor="let lang of langs" [value]="lang">
-        {{ lang }}
-      </option>
-    </select>
-  </label>

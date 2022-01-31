@@ -15,6 +15,8 @@ import { GridModule } from '@progress/kendo-angular-grid';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { ClienteComponent } from './components/cliente/cliente.component';
+import { ClienteEditComponent } from './components/cliente-edit/cliente-edit.component';
 
 
 
@@ -31,7 +33,9 @@ export function createTranslateLoader(http: HttpClient) {
     MainsidebarcontainerComponent,
     NavbarComponent,
     LoginComponent,
-    HomeComponent
+    HomeComponent,
+    ClienteComponent,
+    ClienteEditComponent
   ],
   imports: [
     BrowserModule,
